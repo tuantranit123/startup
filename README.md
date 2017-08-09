@@ -1,0 +1,2 @@
+# startup
+dau tay
